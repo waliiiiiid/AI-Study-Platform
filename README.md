@@ -1,5 +1,7 @@
 # 🚀 AI Learning Platform
-
+<div align="center">
+  <img src="Docs/dev_team_whatsapp_square.png" width="100%" alt="Project Banner">
+</div>
 > Your personal AI-powered learning companion.
 
 An AI-powered student assistant that transforms PDFs, lecture materials, and educational videos into interactive learning experiences. Learn smarter, understand faster, and make studying easier.
