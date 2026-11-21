@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="docs/dev_team_whatsapp_square.png" width="100%" alt="Project Banner">
+  <img src="./Docs/Figma%20Designs/dev_team_whatsapp_square.png"
+       width="100%"
+       alt="Project Banner">
 </div>
 # 🚀 AI Learning Platform
 > Your personal AI-powered learning companion.
